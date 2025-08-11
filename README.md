@@ -5,7 +5,7 @@ Official release downloads for PhoTorch Studio - Advanced photosynthesis modelin
 ## Latest Release: v1.0.0
 
 ### macOS
-- [Download for macOS](https://github.com/rylekizzo/photorch-studio-releases/releases/download/v1.0.0/PhoTorch_Studio_Pro.dmg) (Universal - Intel & Apple Silicon)
+- [Download for macOS](https://github.com/rylekizzo/photorch-studio-releases/releases/download/v1.0.0/PhoTorch_Studio.dmg) (Universal - Intel & Apple Silicon)
 
 ### Windows (Coming Soon)
 - Windows installer will be available in the next release
