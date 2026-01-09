@@ -2,7 +2,7 @@
 
 Official release downloads for PhoTorch Studio - Advanced photosynthesis model fitting software.
 
-Visit [photorchstudio.app](https://photorchstudio.app) for more information.
+Visit [photorchstudio.app](https://photorchstudio.app) to download. Visit the [PhoTorch repo](https://github.com/GEMINI-Breeding/photorch) or read the [paper](https://arxiv.org/abs/2501.15484) for more info.
 
 ## Downloads
 
@@ -41,16 +41,6 @@ PhoTorch Studio is a desktop application for fitting the Farquhar-von Caemmerer-
 - **Data Export** - Download results as XLSX with fitted parameters and model predictions
 - **LI-COR Compatible** - Direct import of LI-6800 and LI-6400 data files
 
-### Model Parameters
-
-Core parameters fitted at 25C include:
-- Vcmax25 - Maximum carboxylation rate
-- Jmax25 - Maximum electron transport rate
-- TPU25 - Triose phosphate utilization rate
-- Rd25 - Day respiration
-
-Optional parameters include temperature response (Topt, dHa, dHd), mesophyll conductance (gm25), and light response (alpha, theta).
-
 ## Installation
 
 ### macOS
@@ -75,11 +65,8 @@ For RPM: `sudo rpm -i PhoTorch.Studio-1.0.0-1.x86_64.rpm`
 
 ## Core Engine
 
-The core fitting engine is available as an open-source Python library. See the [PhoTorch repository](https://github.com/rylekizzo/photorch) for the source code.
+The core fitting engine is available as an open-source Python library. See the [PhoTorch repository]([https://github.com/gemini-breeding/photorch](https://github.com/GEMINI-Breeding/photorch) for the source code.
 
-## Support
-
-For questions and support, visit [photorchstudio.app](https://photorchstudio.app).
 
 ---
 
