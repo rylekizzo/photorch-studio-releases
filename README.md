@@ -46,7 +46,6 @@ PhoTorch Studio is a desktop application for fitting the Farquhar-von Caemmerer-
 ### macOS
 1. Download the DMG for your Mac (Apple Silicon or Intel)
 2. Open the DMG and drag PhoTorch Studio to Applications
-3. On first launch, right-click and select "Open" to bypass Gatekeeper
 
 ### Windows
 1. Download the EXE installer
